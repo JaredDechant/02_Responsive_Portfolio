@@ -1,13 +1,16 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
-<!-- URL of deployed application -->
+URL of deployed application:
+
 https://jar-codes.github.io/02_Responsive_Portfolio/
 
-<!-- URL of github repo -->
+URL of Github repo:
+
 https://github.com/jar-codes/02_Responsive_Portfolio.git
 
 
 
-*[]
+[Directions](#directions)
+
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
 

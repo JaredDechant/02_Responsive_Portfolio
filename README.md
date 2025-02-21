@@ -1,7 +1,7 @@
 # Responsive Portfolio
 URL of deployed application:
 
-https://jar-codes.github.io/02_Responsive_Portfolio/
+https://JaredDechant.github.io/02_Responsive_Portfolio/
 
 
 ## Description
